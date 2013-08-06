@@ -1,0 +1,9 @@
+Flask-Passport
+==============
+
+Adds authorization and authentication support to your Flask application.
+
+I haven't used this since I wrote it back in 2011 so I can't really guarantee it
+will work on modern-day Flask. Also, security is dangerous stuff. Use something
+well known instead. I spent an alarming amount of time documenting it, so I
+figured I should keep it around and treat it as a proof of concept.
